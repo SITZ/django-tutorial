@@ -144,7 +144,7 @@ instance/
 .scrapy
 
 # Sphinx documentation
-docs/_build/
+../django-polls/docs/_build/
 
 # PyBuilder
 .pybuilder/
